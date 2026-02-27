@@ -1,4 +1,3 @@
-![WhatsApp Image 2026-02-27 at 11 04 51 PM](https://github.com/user-attachments/assets/93d8f378-d3f9-4620-9417-b0db04f85065)# Power-Apps-Approvals-App
 ## This project was designed for a specific client who was facing some challenges with the new hires' performance.
 ### Challenge: The mentors must review the new hires' solutions for their new assigned cases
 ### Solutions: developing a Power Apps app that can accomplish the goal and more.
