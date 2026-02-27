@@ -10,6 +10,7 @@
 -  Admin page to manage the app entries, users, and privacy 
 - SharePoint List is a data source 
 - Power BI dashboard for the reporting (included in the app)
+- Office 365 connector is being used in this app
 
 
   ![WhatsApp Image 2026-02-27 at 11 04 51 PM](https://github.com/user-attachments/assets/15c74651-0cbe-488c-983c-c5f560d92730)
