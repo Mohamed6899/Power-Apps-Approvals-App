@@ -1,4 +1,4 @@
-## This project was designed for a specific client who was facing some challenges with the new hires' performance.
+## This project has been developed for a specific client who was facing some challenges with the new hires' performance.
 ### Challenge: The mentors must review the new hires' solutions for their new assigned cases
 ### Solutions: developing a Power Apps app that can accomplish the goal and more.
 ### Ideas implemented: 
